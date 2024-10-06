@@ -16,4 +16,4 @@ The TR5 Robotarm uses DC Motors. So they only have 3 States. On, Off or Stop. So
 
 The TR5 Robotarm does not use Rotary Encoders or some fancy stuff, it uses Potentiometers on every axis, that means it provides analog feedback.
 
-(Graphic is a beautified version of the one on this Website https://www.electronics-tutorials.ws/io/io_2.html)
+<sub>_(Graphic is a beautified version of the one on this Website https://www.electronics-tutorials.ws/io/io_2.html)_</sub>_
