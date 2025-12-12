@@ -27,5 +27,5 @@ TODO Grafik einfügen
 
 ### Further Ressources
 
-[Robotics Lab Lisboa]([https://mediawiki.isr.tecnico.ulisboa.pt/wiki/Robotics_lab_resources](https://web.archive.org/web/20251212131313/https://mediawiki.isr.tecnico.ulisboa.pt/wiki/Robotics_lab_resources))
+[Robotics Lab Lisboa](https://web.archive.org/web/20251212131313/https://mediawiki.isr.tecnico.ulisboa.pt/wiki/Robotics_lab_resources)
 
